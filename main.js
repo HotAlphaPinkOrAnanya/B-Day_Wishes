@@ -3,7 +3,7 @@ var x = document.getElementById("myAudio");
 var block_image_object = "";
 
 function new_image() {
-    fabric.Image.fromURL('tenor.gif', function(Img) {
+    fabric.Image.fromURL('Happy\ birthday\ image\ small.jpg', function(Img) {
         block_image_object = Img;
 
         block_image_object.scaleToWidth(700);
